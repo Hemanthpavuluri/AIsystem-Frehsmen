@@ -1,0 +1,50 @@
+IF Profession=Engineering and InterestedPhysics=YES and InterestedEngines=YES THEN Area=MechanicalEngineering
+IF Profession=Engineering and InterestedPhysics=YES and InterestedEngines=NO THEN Area=ElectricalEngineering
+IF Profession=Engineering and InterestedPhysics=NO and GoodDrawings=YES and LoadBearing=YES THEN Area=CivilEngineering
+IF Profession=Engineering and InterestedPhysics=NO and GoodDrawings=YES and LoadBearing=NO THEN Area=Architecture 
+IF Profession=Engineering and InterestedPhysics=NO and GoodDrawings=NO and LearnHacking= YES THEN Area = ComputerScienceEngineering
+IF Profession=Entertainment and ReadNovels=YES and FictionOnly=YES THEN Area = Scriptwriting
+IF Profession=Entertainment and ReadNovels=YES and FictionOnly=NO THEN Area = Editing
+IF Profession=Entertainment and ReadNovels=NO and AttendConcerts=YES and Dances=YES THEN Area=Acting
+IF Profession=Entertainment and ReadNovels=NO and AttendConcerts=YES and Dances=NO THEN Area=Singing
+IF Profession=Entertainment and ReadNovels=NO and AttendConcerts=NO and RecordConcert=YES THEN Area=Photography
+IF Profession=BUSINESS and Company=YES THEN Area=Entreprenership
+IF Profession=BUSINESS and Company=NO and MarketProduct=YES THEN Area=Sales
+IF Profession=BUSINESS and Company=NO and MarketProduct=NO and ManageProduct=YES THEN Area=MarketingManagement
+IF Profession=BUSINESS and Company=NO and MarketProduct=NO and ManageProduct=NO and Trading=YES THEN Area=FinancialAnalysis
+IF Profession=BUSINESS and Company=NO and MarketProduct=NO and ManageProduct=NO and Trading=NO and Budget=YES THEN Area=Accounting
+IF Profession=Medical and Surgery=YES and Heart=YES THEN Area=Cardiology
+IF Profession=Medical and Surgery=YES and Heart=NO THEN Area=Neurology
+IF Profession=Medical and Surgery=NO and Clinical=YES and Skin=YES THEN Area=Dermatology
+IF Profession=Medical and Surgery=NO and Clinical=YES and Skin=NO THEN Area=Orthopedics
+IF Profession=Medical and Surgery=NO and Clinical=NO and Gmed=YES THEN Area=GeneralPractioner
+IF Profession=Geography and MapMaking=YES THEN Area=GISanalysis
+IF Profession=Geography and MapMaking=NO and Weather=YES and Forecast=YES THEN Area=Meterlogy
+IF Profession=Geography and MapMaking=NO and Weather=YES and Forecast=NO THEN Area=Climatology
+IF Profession=Geography and MapMaking=NO and Weather=NO and Environment=YES THEN Area=Ecology
+IF Profession=Geography and MapMaking=NO and Weather=NO and Environment=NO and Earthquakes=YES THEN Area=Geoscience
+IF Profession=Sociology and Theory=YES THEN Area = TheoreticalSociology
+IF Profession=Sociology and Theory=NO and SocietyandHealth=YES THEN Area = MedicalSociology
+IF Profession=Sociology and Theory=NO and SocietyandHealth=NO and VillageLifeandPeople=YES  THEN Area = RuralSociology 
+IF Profession=Sociology and Theory=NO and SocietyandHealth=NO and VillageLifeandPeople=NO and UrbanLifeandPeople = YES  THEN Area = UrbanSociology
+IF Profession=Sociology and Theory=NO and SocietyandHealth=NO and VillageLifeandPeople=NO and UrbanLifeandPeople=NO IndustryRelations=YES THEN Area = IndustrialSociology
+IF Profession=Agriculture and EngineeringInAgriculture=YES THEN Area=AgriculturalEngineering
+IF Profession=Agriculture and EngineeringInAgriculture=NO and BioSystems=YES THEN Area=BiologicalEngineering
+IF Profession=Agriculture and EngineeringInAgriculture=NO and BioSystems=NO and MaintainFarms=YES THEN Area=FarmManagement
+IF Profession=Agriculture and EngineeringInAgriculture=NO and BioSystems=NO and MaintainFarms=NO and AgriDiseses=YES THEN Area=AgriculturalScience
+IF Profession=Agriculture and EngineeringInAgriculture=NO and BioSystems=NO and MaintainFarms=NO and AgriDiseses=NO and AgriLaws=YES THEN Area=AgriculturalPolicy
+IF Profession=Education and Teaching=YES THEN Area=Professor
+IF Profession=Education and Teaching=NO and career=YES and guide=YES THEN Area=CareerCouncellor
+IF Profession=Education and Teaching=NO and career=YES and guide=NO THEN Area=CurriculumDeveloper
+IF Profession=Education and Teaching=NO and career=NO and office=YES  THEN Area=Administrator
+IF Profession=Education and Teaching=NO and career=NO and office=NO and industry=YES THEN Area=IndustryPartnershipManager
+IF Profession=Journalism and WriteNews=YES THEN Area=TechnicalWriting
+IF Profession=Journalism and WriteNews=NO and LiveCoverage=YES THEN Area=TelevisionJournalist
+IF Profession=Journalism and WriteNews=NO and LiveCoverage=NO and EditNews=YES THEN Area=NewspaperEditing
+IF Profession=Journalism and WriteNews=NO and LiveCoverage=NO and EditNews=NO and PresentNews=YES THEN Area=NewsReader
+IF Profession=Journalism and WriteNews=NO and LiveCoverage=NO and EditNews=NO and PresentNews=NO and Freelance=YES THEN Area=Blogger
+If Profession=Sports and TrainAthletes=YES THEN Area=AthleticTrainer
+If Profession=Sports and TrainAthletes=NO and TreatAthletes=YES THEN Area=Physiotherapy
+If Profession=Sports and TrainAthletes=NO and TreatAthletes=NO and ParticularSport=YES and GoodCommunication=YES THEN Area=Commentator
+If Profession=Sports and TrainAthletes=NO and TreatAthletes=NO and ParticularSport=YES and GoodCommunication=NO THEN Area=Referre
+If Profession=Sports and TrainAthletes=NO and TreatAthletes=NO and ParticularSport=NO and OrganiseEvents=YES THEN Area=SportsEventCoordinator

@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="bw_data\" />
+    <None Remove="fw_data\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bw_data\" />
+    <Folder Include="fw_data\" />
+  </ItemGroup>
+</Project>

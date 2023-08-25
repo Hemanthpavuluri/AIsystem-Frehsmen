@@ -1,0 +1,15 @@
+/Users/pavulurihemanth/AndroidStudioProjects/AI_project_freshmen/bin/Debug/net7.0/AI_project_freshmen
+/Users/pavulurihemanth/AndroidStudioProjects/AI_project_freshmen/bin/Debug/net7.0/AI_project_freshmen.deps.json
+/Users/pavulurihemanth/AndroidStudioProjects/AI_project_freshmen/bin/Debug/net7.0/AI_project_freshmen.runtimeconfig.json
+/Users/pavulurihemanth/AndroidStudioProjects/AI_project_freshmen/bin/Debug/net7.0/AI_project_freshmen.dll
+/Users/pavulurihemanth/AndroidStudioProjects/AI_project_freshmen/bin/Debug/net7.0/AI_project_freshmen.pdb
+/Users/pavulurihemanth/AndroidStudioProjects/AI_project_freshmen/obj/Debug/net7.0/AI_project_freshmen.csproj.AssemblyReference.cache
+/Users/pavulurihemanth/AndroidStudioProjects/AI_project_freshmen/obj/Debug/net7.0/AI_project_freshmen.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavulurihemanth/AndroidStudioProjects/AI_project_freshmen/obj/Debug/net7.0/AI_project_freshmen.AssemblyInfoInputs.cache
+/Users/pavulurihemanth/AndroidStudioProjects/AI_project_freshmen/obj/Debug/net7.0/AI_project_freshmen.AssemblyInfo.cs
+/Users/pavulurihemanth/AndroidStudioProjects/AI_project_freshmen/obj/Debug/net7.0/AI_project_freshmen.csproj.CoreCompileInputs.cache
+/Users/pavulurihemanth/AndroidStudioProjects/AI_project_freshmen/obj/Debug/net7.0/AI_project_freshmen.dll
+/Users/pavulurihemanth/AndroidStudioProjects/AI_project_freshmen/obj/Debug/net7.0/refint/AI_project_freshmen.dll
+/Users/pavulurihemanth/AndroidStudioProjects/AI_project_freshmen/obj/Debug/net7.0/AI_project_freshmen.pdb
+/Users/pavulurihemanth/AndroidStudioProjects/AI_project_freshmen/obj/Debug/net7.0/AI_project_freshmen.genruntimeconfig.cache
+/Users/pavulurihemanth/AndroidStudioProjects/AI_project_freshmen/obj/Debug/net7.0/ref/AI_project_freshmen.dll

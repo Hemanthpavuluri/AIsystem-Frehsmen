@@ -1,0 +1,12 @@
+IF freshman=NO THEN profession=NULL
+IF freshman=YES and build=YES THEN profession=ENGINEERING
+IF freshman=YES and build=NO and TechAndHealth=YES THEN SaveLives=YES
+IF Savelives=YES and health=YES Then profession=MEDICAL
+IF Savelives=YES and health=NO and crop=YES Then profession=AGRICULTURE
+IF freshman=YES and build=NO and TechAndHealth=NO and concerts=YES THEN profession=ENTERTAINMENT
+IF freshman=YES and build=NO and TechAndHealth=NO and concerts=NO and games=YES THEN profession=SPORTS
+IF freshman=YES and build=NO and TechAndHealth=NO and concerts=NO and games=NO and product=YES then profession=BUSINESS
+IF freshman=YES and build=NO and TechAndHealth=NO and concerts=NO and games=NO and product=NO and acorientation=YES THEN profession=EDUCATION
+IF acorientation=NO and Fieldwork=YES and mapmaking=YES THEN profession=GEOGRAPHY
+IF acorientation=YES and Fieldwork=YES and mapmaking=NO and society=NO THEN profession=JOURNALISM
+IF acorientation=NO and Fieldwork=YES and mapmaking=NO and society=YES THEN profession=SOCIOLOGY
